@@ -1,0 +1,6 @@
+[submodule "xte-client"]
+	path = xte-client
+	url = https://github.com/SeokJinCheol/xte-client.git
+[submodule "xte-server"]
+	path = xte-server
+	url = https://github.com/SeokJinCheol/xte-server.git
