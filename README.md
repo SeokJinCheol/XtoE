@@ -7,7 +7,7 @@ JSON, XML, EXCEL 문서등을 Elastic Search에 자동 적재 하는 프로젝�
 
 [frame-work]
 - spring-kotlin
-- kotlin
+- react
 
 [settigs]
 - java 21
